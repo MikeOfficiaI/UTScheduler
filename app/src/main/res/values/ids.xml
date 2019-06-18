@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txttitle" type="id" />
+    <item name="description" type="id" />
+    <item name="spinnerNoteType" type="id" />
+    <item name="datePicker" type="id" />
+    <item name="timePicker" type="id" />
+    <item name="txtTime" type="id" />
+    <item name="txtDate" type="id" />
+    <item name="checkBox" type="id" />
+    <item name="checkBox2" type="id" />
+    <item name="action_save" type="id" />
+    <item name="action_back" type="id" />
+    <item name="datePicker2" type="id" />
+    <item name="timePicker2" type="id" />
+    <item name="txt_selecttime" type="id" />
+    <item name="txt_selectdate" type="id" />
+    <item name="chkbox" type="id" />
+    <item name="chkbox2" type="id" />
+    <item name="date" type="id" />
+    <item name="type" type="id" />
+    <item name="Detail" type="id" />
+    <item name="action_new" type="id" />
+    <item name="alarmImage" type="id" />
+    <item name="commentlist" type="id" />
+    <item name="fab" type="id" />
+    <item name="detail" type="id" />
+    <item name="note_type_ans" type="id" />
+    <item name="alertvalue" type="id" />
+    <item name="datevalue" type="id" />
+    <item name="action_edit" type="id" />
+    <item name="action_discard" type="id" />
+    <item name="chec" type="id" />
+</resources>
